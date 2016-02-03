@@ -1,6 +1,3 @@
 # XNQPullDown
 
-## pullDown view
-
-
-带下拉效果的View
+一个带下拉效果的View
